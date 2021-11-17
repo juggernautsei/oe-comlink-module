@@ -13,8 +13,5 @@ To install the module, after copying the module to the above directory. From the
 the Comlink module listed. Select register and follow the rest of the instructions to install and activate the module.
 
 
-At that point you can run the install command
-```
-composer require adunsulag/oe-module-custom-skeleton
-```
+
 
